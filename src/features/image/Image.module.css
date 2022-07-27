@@ -1,0 +1,17 @@
+.mt10 {
+  margin-top: 10px !important;
+}
+
+.imageList {
+  height: 600px;
+  overflow-y: auto;
+}
+
+.status {
+  font-size: 78px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-top: 2px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
